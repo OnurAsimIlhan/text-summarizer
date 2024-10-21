@@ -1,0 +1,7 @@
+[2024-10-21 12:49:09,798 - summarizerLogger - INFO - stage Data Ingestion stage initiated]
+[2024-10-21 12:49:09,799 - summarizerLogger - INFO - yaml file: config/config.yaml loaded successfully]
+[2024-10-21 12:49:09,799 - summarizerLogger - INFO - yaml file: params.yaml loaded successfully]
+[2024-10-21 12:49:09,799 - summarizerLogger - INFO - created directory at: artifacts]
+[2024-10-21 12:49:09,799 - summarizerLogger - INFO - created directory at: artifacts/data_ingestion]
+[2024-10-21 12:49:11,556 - summarizerLogger - INFO - File is downloaded]
+[2024-10-21 12:49:11,623 - summarizerLogger - INFO - Stage Data Ingestion stage Completed]
